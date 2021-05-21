@@ -2,6 +2,8 @@
 It is basic prediction of the given data using linear regression
 # Task 2
 It is the classification using KMeans Clustering
+# Task 3
+It is the classification using KMeans Clustering
 # Task 4
 Exploratory Data Analysis - Terrorism Analysis in previous years around the world
 # Task 5
